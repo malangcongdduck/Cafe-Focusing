@@ -1,4 +1,8 @@
 # Food-Focusing
+
+### date: 2021.10.18~2021.12.18 
+### collaborator: @jingwangkim </br>
+🕋 Using python and opencv from Jupyter Lab </br>
 ## <strong>Overcome the one-focusing limit of the primary camera</strong>
 </br>
 <p>
@@ -12,17 +16,3 @@
 </br>
 </br>
 ** There is a limitation that food photos that are not clearly defined by the stained contour cannot be detected due to the use of artificial intelligence's area division technology, but we solved the problem by narrowing the goal of making it light and changing it to Food→Cafe.
-
-
-### date: 2021.01.20 ~ 
-### collaborator: @mintai09 </br>
-🕋 Using Selenium from Jupyter Lab
-🕋 Using "searchWeeklyBoxOfficeList" Open API from korea film council
-
-<p>
-  <em>
-    Hi there 👋</br>
-    This is a project that crawling about movie reviews from the audience.
-    in "Naver Movies" and then analyzes the psychology of the audience.
-  </em>  
-</p>
