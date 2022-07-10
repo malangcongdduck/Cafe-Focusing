@@ -3,7 +3,7 @@
 ### date: 2021.10.18~2021.12.18 
 ### collaborator: @jingwangkim </br>
 🕋 Using python and opencv from Jupyter Lab </br>
-## <strong>Overcome the one-focusing limit of the primary camera</strong>
+## <strong>Overcome the one-focusing limit of the primary camera ☕📷</strong>
 </br>
 <p>
   The typical smartphone Galaxy and iPhone support food and portrait filters. All of these filters focus on the circular shape of the object. However, there is a limitation that <strong>fixed circle-shaped focusing support cannot be focused on cafe drinks or bread-shaped ones</strong>, so our team worked on this project to implement the function of finding the outline of the object and making the outline range out of focus.
